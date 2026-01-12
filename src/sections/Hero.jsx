@@ -13,7 +13,7 @@ const Hero = () => {
               Shivkumar Devane
             </h1>
             <p className="max-w-440 mb-10 body-1 max-md:mb-10 max-md:text-base">
-              Software Development Engineer (SDE) passionate about building scalable applications and solving complex problems. Experienced in Python, Java, React, and building efficient systems with a focus on DSA and Object-Oriented Programming (OOP).
+              Software Development Engineer (SDE) passionate about building scalable applications and solving complex problems. Experienced in Python, C++, React, and building efficient systems with a focus on high-performance solutions.
             </p>
             <LinkScroll to="About Me" offset={-100} spy smooth>
               <Button icon="images/zap.svg">Know More</Button>

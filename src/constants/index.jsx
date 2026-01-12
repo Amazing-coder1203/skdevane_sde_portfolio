@@ -4,7 +4,7 @@ export const features = [
     icon: "images/feature-1.png",
     caption: "About Me",
     title: "Software Development Engineer",
-    text: "Aspiring SDE with strong problem-solving skills and hands-on experience building scalable applications. Focused on Data Structures, Algorithms (DSA), and Object-Oriented Programming (OOP). BTech Biotechnology student at DTU with a minor in Computer Science.",
+    text: "Aspiring SDE with strong problem-solving skills and hands-on experience building scalable applications. Focused on efficient architecture and robust code. Pursuing a Computer Science minor at DTU.",
     button: {
       icon: "images/magictouch.svg",
       title: "View my work",
@@ -16,7 +16,7 @@ export const features = [
     icon: "images/feature-2.png",
     caption: "Systems & Web Development",
     title: "Scalable Full-Stack Solutions",
-    text: "Specialized in building robust backend systems and dynamic frontend interfaces. Experienced in Python, Java, React, and Node.js. Proficient in system design, database optimization, and cloud deployments on AWS.",
+    text: "Specialized in building robust backend systems and dynamic frontend interfaces. Experienced in Python, C++, React, and Node.js. Proficient in system design, database optimization, and cloud deployments on AWS.",
     button: {
       icon: "images/docs.svg",
       title: "Explore projects",
@@ -53,7 +53,7 @@ export const faq = [
     id: "0",
     question: "What technologies do you specialize in?",
     answer:
-      "I specialize in Python, Java, C++, and JavaScript. I have extensive experience with frameworks like React, Node.js, and Spring Boot. I focus on building scalable systems with a deep understanding of Data Structures and Algorithms.",
+      "I specialize in Python, C++, and JavaScript. I have extensive experience with frameworks like React, Node.js, and FastAPI. I focus on building scalable systems with a deep understanding of core computer science principles.",
   },
   {
     id: "1",
