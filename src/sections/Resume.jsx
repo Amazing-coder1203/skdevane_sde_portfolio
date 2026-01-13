@@ -8,7 +8,7 @@ const Resume = () => {
     const [isLoading, setIsLoading] = useState(true);
     const viewerRef = useRef(null);
     const basePath = "/SKDevane_Data_Portfolio/";
-    const resumeUrl = `${basePath}resume/SK_Devane_CV.pdf`;
+    const resumeUrl = `${basePath}resume/SK_Devane_CV_v2.pdf`;
 
     return (
         <section className="relative z-2 py-24 md:py-28 lg:py-40">
