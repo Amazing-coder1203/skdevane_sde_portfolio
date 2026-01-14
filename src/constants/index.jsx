@@ -215,7 +215,7 @@ export const testimonials = [
     role: "Data Forensic Analyst Simulation",
     avatarUrl: "images/portfolio/deloitte_logo.png",
     comment:
-      "Participated in a technical simulation involving legacy code refactoring, bug fixing, and implementing new features in a enterprise-level codebase.",
+      "Worked as a Data Analytics Intern on a forensic technology simulation, analyzing structured datasets using Python and spreadsheets. Assessed data quality, performed exploratory analysis, and delivered insights to support data driven decision making.",
   },
   {
     id: "3",
