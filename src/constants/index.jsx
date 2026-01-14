@@ -207,7 +207,7 @@ export const testimonials = [
     role: "Freelancer",
     avatarUrl: "images/portfolio/soul_ai_logo.png",
     comment:
-      "Developed robust API endpoints and integrated AI models into full-stack applications. Focused on low-latency responses and scalable backend architecture.",
+      "Analyzed and evaluated AI model outputs using statistical and analytical methods to identify patterns and improve response quality. Contributed to prompt refinements and evaluation strategies, resulting in a 15 to 20 percent improvement in overall model efficiency and reliability.",
   },
   {
     id: "2",
