@@ -204,7 +204,7 @@ export const testimonials = [
   {
     id: "1",
     name: "Soul AI",
-    role: "Backend Engineer",
+    role: "Freelancer",
     avatarUrl: "images/portfolio/soul_ai_logo.png",
     comment:
       "Developed robust API endpoints and integrated AI models into full-stack applications. Focused on low-latency responses and scalable backend architecture.",
@@ -212,35 +212,35 @@ export const testimonials = [
   {
     id: "2",
     name: "Deloitte Australia",
-    role: "Software Development Simulation",
+    role: "Data Forensic Analyst Simulation",
     avatarUrl: "images/portfolio/deloitte_logo.png",
     comment:
       "Participated in a technical simulation involving legacy code refactoring, bug fixing, and implementing new features in a enterprise-level codebase.",
   },
   {
     id: "3",
-    name: "ShopAffordable",
-    role: "Full-Stack Project",
-    avatarUrl: "images/portfolio/shopfordable.png",
+    name: "DTU ALTAIR",
+    role: "Software Engineer and \n Head of Corporate Strategy",
+    avatarUrl: "images/portfolio/dtualtair_logo.png",
     comment:
       "Built a full-stack e-commerce platform with real-time inventory and analytics, improving sales tracking for 100+ SKUs.",
   },
   {
     id: "4",
-    name: "Amazon Analytics",
-    role: "Power BI Dashboard",
-    avatarUrl: "images/portfolio/amazondash.png",
+    name: "DPPL",
+    role: "Consultant Intern",
+    avatarUrl: "images/portfolio/dppl_logo.png",
     comment:
       "Developed an interactive dashboard analyzing 128K+ Amazon India sales records, uncovering category trends and growth insights.",
   },
-  {
-    id: "5",
-    name: "African Migration",
-    role: "Research & Visualization",
-    avatarUrl: "images/portfolio/africanmig.png",
-    comment:
-      "Analyzed migration data from 42 countries and 85+ conflicts, producing dashboards that supported humanitarian planning.",
-  },
+  // {
+  //   id: "5",
+  //   name: "African Migration",
+  //   role: "Research & Visualization",
+  //   avatarUrl: "images/portfolio/africanmig.png",
+  //   comment:
+  //     "Analyzed migration data from 42 countries and 85+ conflicts, producing dashboards that supported humanitarian planning.",
+  // },
 ];
 
 
