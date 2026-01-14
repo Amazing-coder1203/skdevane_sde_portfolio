@@ -223,7 +223,7 @@ export const testimonials = [
     role: "Software Engineer and \n Head of Corporate Strategy",
     avatarUrl: "images/portfolio/dtualtair_logo.png",
     comment:
-      "Built a full-stack e-commerce platform with real-time inventory and analytics, improving sales tracking for 100+ SKUs.",
+      "Led sponsorships, partnerships, and outreach for DTU’s official robotics team. Secured ₹10 lakh in funding and supported GenAI, documentation, and data visualization initiatives, contributing to multiple national and international competition wins.",
   },
   {
     id: "4",
@@ -231,7 +231,7 @@ export const testimonials = [
     role: "Consultant Intern",
     avatarUrl: "images/portfolio/dppl_logo.png",
     comment:
-      "Developed an interactive dashboard analyzing 128K+ Amazon India sales records, uncovering category trends and growth insights.",
+      "Supported India’s first digital library initiative in police stations. Helped expand DPPL from Delhi to Maharashtra, empowering 1.4 lakh plus girls and providing education to 480 plus underprivileged children.",
   },
   // {
   //   id: "5",
