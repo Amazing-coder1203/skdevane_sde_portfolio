@@ -7,7 +7,7 @@ import { PDFViewer } from '@embedpdf/react-pdf-viewer';
 const Resume = () => {
     const [isLoading, setIsLoading] = useState(true);
     const viewerRef = useRef(null);
-    const basePath = "/SKDevane_Data_Portfolio/";
+    const basePath = import.meta.env.BASE_URL;
     const resumeUrl = `${basePath}resume/SK_Devane_CV_v3.pdf`;
 
     return (
