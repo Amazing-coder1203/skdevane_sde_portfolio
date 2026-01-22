@@ -231,7 +231,7 @@ export const testimonials = [
     role: "Consultant Intern",
     avatarUrl: "images/portfolio/dppl_logo.png",
     comment:
-      "Supported India’s first digital library initiative in police stations. Helped expand DPPL from Delhi to Maharashtra, empowering 1.4 lakh plus girls and providing education to 480 plus underprivileged children.",
+      "Supported India’s first digital library initiative in police stations. Helped expand DPPL from Delhi to Maharashtra, empowering 1.4 lakh+ girls and providing education to 480 plus underprivileged children.",
   },
   // {
   //   id: "5",
