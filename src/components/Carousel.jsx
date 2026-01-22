@@ -6,11 +6,12 @@ import Button1 from "./Button.jsx";
 const slides = [
   { img: "assets/Shopfordable_ref.png", link: "https://amazing-coder1203.github.io/ShopAffordable/" },
   { img: "assets/crypto-live-pro-v3.png", link: "https://amazing-coder1203.github.io/crypto_live_pro/#/landing" },
+  { img: "assets/job-tracker_v1.png", link: "https://amazing-coder1203.github.io/TrackJobPro/" },
+  { img: "assets/audio-porter_v1.png", link: "https://audioporter-pro.onrender.com/" },
   { img: "assets/african-migration.png", link: "https://amazing-coder1203.github.io/African-Conflicts/" },
   { img: "assets/amazon-sales.png", link: "https://amazing-coder1203.github.io/Amazon-India-Sales/" },
   { img: "assets/wita.png", link: "https://amazing-coder1203.github.io/Aircraft-Data-Analysis/" },
 ]
-
 
 
 
